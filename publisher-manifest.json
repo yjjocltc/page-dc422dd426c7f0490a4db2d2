@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "31d88e37c543b715a65f9f30",
+  "owner": "yjjocltc",
+  "repo": "page-dc422dd426c7f0490a4db2d2",
+  "title": "365VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dc422dd426c7f0490a4db2d2",
+      "a": "365VPN",
+      "b": "",
+      "entity": "365VPN",
+      "brand": "365VPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2e6142a5652dec65a5d719befcf114995cf7ea35a4c9fff02cf6932bf69cf3b5",
+      "content": {
+        "keyword1": "365VPN",
+        "keyword2": "",
+        "primary_entity": "365VPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "365VPN 提供订阅制网络加速与客户端下载，通过套餐对比和分步操作说明，帮助用户完成跨境访问、学习办公与日常加速。",
+          "AI_DESCRIPTION": "365VPN 提供订阅制网络加速与客户端下载，通过套餐对比和分步操作说明，帮助用户完成跨境访问、学习办公与日常加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#FFF7F2;color:#2B2422;line-height:1.75;font-size:16px}a{color:#C44A3A;text-decoration:none}a:hover{text-decoration:underline}.wrap{max-width:780px;margin:0 auto;padding:16px}header{background:#fff;border-bottom:3px solid #E25C4A;padding:12px 0}.brand-bar{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}.logo{font-weight:700;font-size:1.25rem;color:#C44A3A}nav{display:flex;flex-wrap:wrap;gap:12px 16px;font-size:.95rem}nav a{color:#5A4A44}h1{font-size:1.85rem;line-height:1.3;margin:24px 0 12px;color:#2B2422}h2{font-size:1.4rem;margin:32px 0 12px;color:#C44A3A;border-left:4px solid #E25C4A;padding-left:12px}h3{font-size:1.1rem;margin:16px 0 8px;color:#3D322E}p{margin:0 0 14px}.lead{font-size:1.05rem;color:#4A3E3A}.step{display:flex;gap:14px;margin:0 0 16px;padding:16px;background:#fff;border-radius:10px;border:1px solid #F3D5CC}.num{flex-shrink:0;width:36px;height:36px;border-radius:50%;background:#E25C4A;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700}.scene{padding:14px 16px;margin:0 0 10px;background:#FDEEE8;border-radius:8px}.plans-box{margin:20px 0;padding:10px;background:#fff;border:2px solid #E25C4A;border-radius:12px}details{background:#fff;border:1px solid #F0D0C6;border-radius:8px;margin:0 0 10px;padding:4px 14px}summary{cursor:pointer;font-weight:600;padding:10px 0;color:#3D322E}footer{margin:40px 0 20px;padding-top:20px;border-top:1px solid #F0D0C6;font-size:.9rem;color:#6B5B56;text-align:center}@media(max-width:480px){h1{font-size:1.55rem}h2{font-size:1.25rem}.wrap{padding:12px}}</style><header><div class=\"wrap brand-bar\"><span class=\"logo\">365VPN</span><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#guide\">使用步骤</a><a href=\"#plans\">套餐对比</a><a href=\"#clients\">客户端</a><a href=\"#faq\">常见问题</a></nav></div></header><main><div class=\"wrap\"><section id=\"intro\"><h1>365VPN 网络加速与客户端下载</h1><p class=\"lead\">365VPN 面向需要稳定跨境访问的用户，提供订阅制网络加速服务。通过选择适合自己的套餐并配合客户端，即可完成连接与日常使用。</p><p>本站集中展示服务说明、套餐对比、客户端获取入口以及分步操作指引，方便一次性了解如何开始使用 365VPN。</p></section><section><h2>品牌简介</h2><p>365VPN 以简洁的订阅方式提供网络加速能力，覆盖个人日常访问与小团队协作。你无需自行搭建线路，按页面步骤完成订阅、下载客户端并导入配置即可连接。</p><p>服务以分层套餐呈现，不同方案对应不同的流量额度、设备数量与支持级别。具体权益以套餐对比区域的说明为准，正文不额外承诺未列出的性能、节点或评价信息。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>学习与资料查阅</h3><div class=\"scene\"><p>访问公开课程、论文库或技术文档时，可用 365VPN 建立更顺畅的访问路径，减少因网络限制造成的中断。</p></div><h3>远程办公与协作</h3><div class=\"scene\"><p>跨境沟通、云端文档与代码仓库访问，适合需要稳定链路的远程办公与小团队协作。</p></div><h3>内容浏览</h3><div class=\"scene\"><p>资讯、社交与流媒体站点的日常浏览，可按所选套餐说明中的范围使用。是否覆盖某一平台以套餐展示为准。</p></div><h3>出行与公共网络</h3><div class=\"scene\"><p>差旅或公共 Wi-Fi 环境下，用客户端快速连接，维持基本的网页与通讯可用性。</p></div></section><section id=\"guide\"><h2>操作说明</h2><p>按下列纵向步骤即可完成从了解到上线。每一步对应本页后续区块，建议按顺序操作。</p><div class=\"step\"><div class=\"num\">1</div><div><h3>确认自己的使用需求</h3><p>先明确主要是浏览、办公还是多设备共享，再进入套餐对比，避免选错流量或同时在线上限。</p></div></div><div class=\"step\"><div class=\"num\">2</div><div><h3>对比套餐并完成订阅</h3><p>在套餐对比区域查看各方案差异后完成订阅。价格、流量与权益以该区域实时展示为准，正文不再抄写。</p></div></div><div class=\"step\"><div class=\"num\">3</div><div><h3>下载对应客户端</h3><p>前往客户端区域，按自己的系统获取程序。请只通过本页入口下载，避免来路不明的安装包。</p></div></div><div class=\"step\"><div class=\"num\">4</div><div><h3>导入订阅并连接</h3><p>打开客户端，导入订阅地址或配置，选择线路后连接。首次使用建议先测试基础网页是否可访问。</p></div></div><div class=\"step\"><div class=\"num\">5</div><div><h3>日常维护与求助</h3><p>关注流量余量与到期时间。连接异常时可先切换线路或重新导入；需要人工协助时，按所购套餐提供的支持方式提交说明。</p></div></div></section><section id=\"plans\"><h2>套餐对比</h2><p>365VPN 用分层套餐对应不同用量。请直接对照下方方案的流量、设备数与附加服务，选择最贴近日常习惯的一档。</p><div class=\"plans-box\">{{PLANS_HTML}}</div></section><section id=\"clients\"><h2>客户端下载</h2><p>完成订阅后，在此获取 365VPN 可用的客户端。同一份订阅可在已授权设备上导入使用。支持的平台以本区域实际列出的为准。</p>{{CLIENTS_HTML}}</section><section id=\"faq\"><h2>常见问题</h2><details><summary>365VPN 是什么服务？</summary><p>365VPN 是面向网络加速与跨境访问的订阅服务。用户通过选择套餐获得流量与设备额度，再配合客户端完成连接。本站用于说明使用方式、展示套餐并提供客户端入口。</p></details><details><summary>没有技术基础可以上手吗？</summary><p>可以。按本页操作说明的五步顺序：确认需求、对比套餐、下载客户端、导入订阅、日常维护，即可完成从订阅到连接，无需自行搭建服务器。</p></details><details><summary>如何挑选适合自己的套餐？</summary><p>先估算同时在线的设备数量和每月大概用量，再对照套餐对比区。浏览与学习通常从较低档开始，多设备或团队协作再考虑更高档。具体数字以套餐展示为准。</p></details><details><summary>客户端支持哪些系统？下载是否安全？</summary><p>请以本页客户端下载区域列出的平台为准。建议只通过本页入口获取安装包，不要使用来源不明的第三方文件。</p></details><details><summary>订阅之后怎样导入配置？</summary><p>在账户或套餐完成页复制订阅链接，打开已安装的客户端，使用从 URL 导入或同等功能粘贴即可。导入成功后选择线路并连接。若界面用词不同，以软件内提示为准。</p></details><details><summary>连接失败或体验不理想怎么办？</summary><p>可先更换线路、检查本地网络、关闭冲突的代理软件后重试。仍无法使用时，根据所购套餐的支持渠道提交说明。本页不承诺特定速率或节点数量，实际体验受当地网络与所选套餐影响。</p></details><details><summary>可以在多台设备上同时使用吗？</summary><p>可以，但同时在线数量受套餐限制。超出额度时部分设备可能无法连接，请在套餐对比中确认设备上限后再订阅。</p></details></section></div></main><footer><div class=\"wrap\">365VPN 官网 · 套餐与客户端信息以本页展示为准 · <a href=\"#intro\">回到顶部</a></div></footer>",
+          "hash": "6d0a39a22455e8c1b3de945830166fcf5e0ec03c81fd7f7ae8516474274151a5",
+          "seo": {
+            "title": "365VPN官网｜网络加速器、梯子与客户端下载",
+            "keywords": "365VPN,365VPN官网,365VPN下载,VPN加速器,网络加速,梯子,机场订阅,客户端下载,365VPN官方网站",
+            "description": "365VPN 提供订阅制网络加速与客户端下载，通过套餐对比和分步操作说明，帮助用户完成跨境访问、学习办公与日常加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "upwibuw.cn",
+    "host": "c.upwibuw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "upwibuw.cn",
+      "url": "https://upwibuw.cn/",
+      "label": "免流(EASY)",
+      "apex": "upwibuw.cn",
+      "kind": null,
+      "identity": "versnjptrd/page-fc304d0872c4107665471ff9"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8323bd70a850a6ea45c6dfa8885d78caca1c765fddc41bc08943e4a0a42f3f40",
+    "sitemap.xml": "b50a976fced539070efe4486543cefecabb30592b37cd88163e7fdea0e0f2813",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b58eabe8be54236a96a59e18b6eeb55e3f581762b46d5d4b0ac276ad4b279edd",
+    "robots.txt": "af57d8ad62341819566e9e2a20e14a245682f220769c98ee269943df83a50f0a",
+    "7a8bda1c7aef25de9826049f70659375.txt": "d61302c21778967761aed62b4c33d62fc004100e8ac947bf09bb3941826616de"
+  },
+  "revision": "c2db6823e4302910fd7b67d9ef478f969bd63edd35fccc13a4355ccb1afea2ef"
+}
